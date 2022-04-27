@@ -128,7 +128,7 @@ class CharList extends Component {
                     <div className="inner">load more</div>
                 </button>
             </div>
-        )
+        );
     }
 }
 
